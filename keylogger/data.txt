@@ -1,0 +1,6 @@
+shiftHi there 
+this is a simple keylogger program
+which creates a log file of all key pressed
+in a simple readable format for humans.
+shiftHope you like itright shift!
+ctrlc
